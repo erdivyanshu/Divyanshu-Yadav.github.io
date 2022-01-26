@@ -423,7 +423,7 @@ a:focus {
 
 .input__field {
   width: 100%;
-  border: 2px solid #999;
+  border: 2px solid #f9da00;
   padding: 5px 10px;
   -webkit-transition: all .5s ease;
   -o-transition: all .5s ease;
@@ -437,7 +437,7 @@ a:focus {
 
 .input__field:focus {
   outline: none;
-  border-color: #fff; }
+  border-color: #d97e20; }
 
 .input__label {
   font-weight: 500;
